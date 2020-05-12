@@ -1,0 +1,5274 @@
+
+#----------------------------- Global Properties ----------------------------#
+
+/outputDir:bin/$(Platform)
+/intermediateDir:obj/$(Platform)
+/platform:DesktopGL
+/config:
+/profile:Reach
+/compress:False
+
+#-------------------------------- References --------------------------------#
+
+
+#---------------------------------- Content ---------------------------------#
+
+#begin bin/DesktopGL/bin/DesktopGL/Sound/theme.ogg
+/importer:OggImporter
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:bin/DesktopGL/bin/DesktopGL/Sound/theme.ogg
+
+#begin bin/DesktopGL/bin/DesktopGL/Sound/theme.ogg
+/importer:OggImporter
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:bin/DesktopGL/bin/DesktopGL/Sound/theme.ogg
+
+#begin bin/DesktopGL/bin/DesktopGL/Sound/theme.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/bin/DesktopGL/Sound/theme.xnb
+
+#begin bin/DesktopGL/bin/DesktopGL/Sound/theme.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/bin/DesktopGL/Sound/theme.xnb
+
+#begin bin/DesktopGL/Fonts/bigFont.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Fonts/bigFont.xnb
+
+#begin bin/DesktopGL/Fonts/bigFont.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Fonts/bigFont.xnb
+
+#begin bin/DesktopGL/Fonts/bigFont.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Fonts/bigFont.xnb
+
+#begin bin/DesktopGL/Fonts/bigFont.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Fonts/bigFont.xnb
+
+#begin bin/DesktopGL/Fonts/bigFont.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Fonts/bigFont.xnb
+
+#begin bin/DesktopGL/Fonts/smallFont.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Fonts/smallFont.xnb
+
+#begin bin/DesktopGL/Fonts/smallFont.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Fonts/smallFont.xnb
+
+#begin bin/DesktopGL/Fonts/smallFont.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Fonts/smallFont.xnb
+
+#begin bin/DesktopGL/Fonts/smallFont.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Fonts/smallFont.xnb
+
+#begin bin/DesktopGL/Fonts/smallFont.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Fonts/smallFont.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/bg1.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/bg1.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/bg1.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/bg1.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/bg1.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/bg1.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/bg1.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/bg1.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/bg1.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/bg1.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/bg2.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/bg2.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/bg2.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/bg2.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/bg2.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/bg2.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/bg2.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/bg2.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/bg2.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/bg2.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/bg3.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/bg3.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/bg3.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/bg3.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/bg3.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/bg3.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/bg3.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/bg3.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/bg3.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/bg3.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/Parallax100.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/Parallax100.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/Parallax100.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/Parallax100.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/Parallax100.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/Parallax100.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/Parallax100.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/Parallax100.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/Parallax100.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/Parallax100.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/Parallax60.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/Parallax60.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/Parallax60.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/Parallax60.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/Parallax60.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/Parallax60.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/Parallax60.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/Parallax60.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/Parallax60.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/Parallax60.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/Parallax80.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/Parallax80.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/Parallax80.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/Parallax80.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/Parallax80.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/Parallax80.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/Parallax80.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/Parallax80.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/Parallax80.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/Parallax80.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/snowybg.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/snowybg.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/snowybg.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/snowybg.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/snowybg.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/snowybg.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/snowybg.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/snowybg.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/snowybg.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/snowybg.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/stars.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/stars.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/stars.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/stars.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/stars.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/stars.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/stars.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/stars.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/stars.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/stars.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/stars2.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/stars2.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/stars2.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/stars2.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/stars2.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/stars2.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/stars2.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/stars2.xnb
+
+#begin bin/DesktopGL/Images/Backgrounds/stars2.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Backgrounds/stars2.xnb
+
+#begin bin/DesktopGL/Images/Misc/blankrec.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Misc/blankrec.xnb
+
+#begin bin/DesktopGL/Images/Misc/blankrec.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Misc/blankrec.xnb
+
+#begin bin/DesktopGL/Images/Misc/blankrec.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Misc/blankrec.xnb
+
+#begin bin/DesktopGL/Images/Misc/blankrec.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Misc/blankrec.xnb
+
+#begin bin/DesktopGL/Images/Misc/blankrec.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Misc/blankrec.xnb
+
+#begin bin/DesktopGL/Images/Misc/logo.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Misc/logo.xnb
+
+#begin bin/DesktopGL/Images/Sprites/bigtarget.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/bigtarget.xnb
+
+#begin bin/DesktopGL/Images/Sprites/bigtarget.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/bigtarget.xnb
+
+#begin bin/DesktopGL/Images/Sprites/bigtarget.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/bigtarget.xnb
+
+#begin bin/DesktopGL/Images/Sprites/bigtarget.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/bigtarget.xnb
+
+#begin bin/DesktopGL/Images/Sprites/bigtarget.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/bigtarget.xnb
+
+#begin bin/DesktopGL/Images/Sprites/bubble.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/bubble.xnb
+
+#begin bin/DesktopGL/Images/Sprites/bubble.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/bubble.xnb
+
+#begin bin/DesktopGL/Images/Sprites/bubble.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/bubble.xnb
+
+#begin bin/DesktopGL/Images/Sprites/bubble.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/bubble.xnb
+
+#begin bin/DesktopGL/Images/Sprites/bubble.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/bubble.xnb
+
+#begin bin/DesktopGL/Images/Sprites/clone.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/clone.xnb
+
+#begin bin/DesktopGL/Images/Sprites/clone.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/clone.xnb
+
+#begin bin/DesktopGL/Images/Sprites/clone.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/clone.xnb
+
+#begin bin/DesktopGL/Images/Sprites/clone.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/clone.xnb
+
+#begin bin/DesktopGL/Images/Sprites/clone.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/clone.xnb
+
+#begin bin/DesktopGL/Images/Sprites/fallingnuke.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/fallingnuke.xnb
+
+#begin bin/DesktopGL/Images/Sprites/fallingnuke.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/fallingnuke.xnb
+
+#begin bin/DesktopGL/Images/Sprites/fallingnuke.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/fallingnuke.xnb
+
+#begin bin/DesktopGL/Images/Sprites/fallingnuke.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/fallingnuke.xnb
+
+#begin bin/DesktopGL/Images/Sprites/fallingnuke.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/fallingnuke.xnb
+
+#begin bin/DesktopGL/Images/Sprites/heart.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/heart.xnb
+
+#begin bin/DesktopGL/Images/Sprites/heart.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/heart.xnb
+
+#begin bin/DesktopGL/Images/Sprites/heart.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/heart.xnb
+
+#begin bin/DesktopGL/Images/Sprites/heart.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/heart.xnb
+
+#begin bin/DesktopGL/Images/Sprites/heart.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/heart.xnb
+
+#begin bin/DesktopGL/Images/Sprites/instakill.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/instakill.xnb
+
+#begin bin/DesktopGL/Images/Sprites/instakill.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/instakill.xnb
+
+#begin bin/DesktopGL/Images/Sprites/instakill.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/instakill.xnb
+
+#begin bin/DesktopGL/Images/Sprites/instakill.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/instakill.xnb
+
+#begin bin/DesktopGL/Images/Sprites/instakill.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/instakill.xnb
+
+#begin bin/DesktopGL/Images/Sprites/krampus.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/krampus.xnb
+
+#begin bin/DesktopGL/Images/Sprites/krampus.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/krampus.xnb
+
+#begin bin/DesktopGL/Images/Sprites/krampus.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/krampus.xnb
+
+#begin bin/DesktopGL/Images/Sprites/krampus.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/krampus.xnb
+
+#begin bin/DesktopGL/Images/Sprites/krampus.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/krampus.xnb
+
+#begin bin/DesktopGL/Images/Sprites/medtarget.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/medtarget.xnb
+
+#begin bin/DesktopGL/Images/Sprites/medtarget.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/medtarget.xnb
+
+#begin bin/DesktopGL/Images/Sprites/medtarget.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/medtarget.xnb
+
+#begin bin/DesktopGL/Images/Sprites/medtarget.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/medtarget.xnb
+
+#begin bin/DesktopGL/Images/Sprites/medtarget.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/medtarget.xnb
+
+#begin bin/DesktopGL/Images/Sprites/nuke.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/nuke.xnb
+
+#begin bin/DesktopGL/Images/Sprites/nuke.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/nuke.xnb
+
+#begin bin/DesktopGL/Images/Sprites/nuke.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/nuke.xnb
+
+#begin bin/DesktopGL/Images/Sprites/nuke.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/nuke.xnb
+
+#begin bin/DesktopGL/Images/Sprites/nuke.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/nuke.xnb
+
+#begin bin/DesktopGL/Images/Sprites/shot.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/shot.xnb
+
+#begin bin/DesktopGL/Images/Sprites/shot.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/shot.xnb
+
+#begin bin/DesktopGL/Images/Sprites/shot.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/shot.xnb
+
+#begin bin/DesktopGL/Images/Sprites/shot.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/shot.xnb
+
+#begin bin/DesktopGL/Images/Sprites/shot.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/shot.xnb
+
+#begin bin/DesktopGL/Images/Sprites/smltarget.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/smltarget.xnb
+
+#begin bin/DesktopGL/Images/Sprites/smltarget.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/smltarget.xnb
+
+#begin bin/DesktopGL/Images/Sprites/smltarget.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/smltarget.xnb
+
+#begin bin/DesktopGL/Images/Sprites/smltarget.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/smltarget.xnb
+
+#begin bin/DesktopGL/Images/Sprites/smltarget.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/smltarget.xnb
+
+#begin bin/DesktopGL/Images/Sprites/spaceship.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/spaceship.xnb
+
+#begin bin/DesktopGL/Images/Sprites/spaceship.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/spaceship.xnb
+
+#begin bin/DesktopGL/Images/Sprites/spaceship.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/spaceship.xnb
+
+#begin bin/DesktopGL/Images/Sprites/spaceship.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/spaceship.xnb
+
+#begin bin/DesktopGL/Images/Sprites/spaceship.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/spaceship.xnb
+
+#begin bin/DesktopGL/Images/Sprites/strongshot.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/strongshot.xnb
+
+#begin bin/DesktopGL/Images/Sprites/strongshot.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/strongshot.xnb
+
+#begin bin/DesktopGL/Images/Sprites/strongshot.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/strongshot.xnb
+
+#begin bin/DesktopGL/Images/Sprites/strongshot.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/strongshot.xnb
+
+#begin bin/DesktopGL/Images/Sprites/strongshot.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Images/Sprites/strongshot.xnb
+
+#begin bin/DesktopGL/Sound/boom.ogg
+/importer:OggImporter
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:bin/DesktopGL/Sound/boom.ogg
+
+#begin bin/DesktopGL/Sound/boom.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Sound/boom.xnb
+
+#begin bin/DesktopGL/Sound/boom.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Sound/boom.xnb
+
+#begin bin/DesktopGL/Sound/boom.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Sound/boom.xnb
+
+#begin bin/DesktopGL/Sound/death.ogg
+/importer:OggImporter
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:bin/DesktopGL/Sound/death.ogg
+
+#begin bin/DesktopGL/Sound/death.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Sound/death.xnb
+
+#begin bin/DesktopGL/Sound/death.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Sound/death.xnb
+
+#begin bin/DesktopGL/Sound/death.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Sound/death.xnb
+
+#begin bin/DesktopGL/Sound/error.ogg
+/importer:OggImporter
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:bin/DesktopGL/Sound/error.ogg
+
+#begin bin/DesktopGL/Sound/error.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Sound/error.xnb
+
+#begin bin/DesktopGL/Sound/error.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Sound/error.xnb
+
+#begin bin/DesktopGL/Sound/error.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Sound/error.xnb
+
+#begin bin/DesktopGL/Sound/hit.ogg
+/importer:OggImporter
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:bin/DesktopGL/Sound/hit.ogg
+
+#begin bin/DesktopGL/Sound/hit.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Sound/hit.xnb
+
+#begin bin/DesktopGL/Sound/hit.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Sound/hit.xnb
+
+#begin bin/DesktopGL/Sound/hit.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Sound/hit.xnb
+
+#begin bin/DesktopGL/Sound/itemgrab.ogg
+/importer:OggImporter
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:bin/DesktopGL/Sound/itemgrab.ogg
+
+#begin bin/DesktopGL/Sound/itemgrab.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Sound/itemgrab.xnb
+
+#begin bin/DesktopGL/Sound/itemgrab.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Sound/itemgrab.xnb
+
+#begin bin/DesktopGL/Sound/itemgrab.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Sound/itemgrab.xnb
+
+#begin bin/DesktopGL/Sound/itemuse.ogg
+/importer:OggImporter
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:bin/DesktopGL/Sound/itemuse.ogg
+
+#begin bin/DesktopGL/Sound/itemuse.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Sound/itemuse.xnb
+
+#begin bin/DesktopGL/Sound/itemuse.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Sound/itemuse.xnb
+
+#begin bin/DesktopGL/Sound/itemuse.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Sound/itemuse.xnb
+
+#begin bin/DesktopGL/Sound/ouchouch.ogg
+/importer:OggImporter
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:bin/DesktopGL/Sound/ouchouch.ogg
+
+#begin bin/DesktopGL/Sound/ouchouch.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Sound/ouchouch.xnb
+
+#begin bin/DesktopGL/Sound/ouchouch.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Sound/ouchouch.xnb
+
+#begin bin/DesktopGL/Sound/ouchouch.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Sound/ouchouch.xnb
+
+#begin bin/DesktopGL/Sound/takedamage.ogg
+/importer:OggImporter
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:bin/DesktopGL/Sound/takedamage.ogg
+
+#begin bin/DesktopGL/Sound/takedamage.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Sound/takedamage.xnb
+
+#begin bin/DesktopGL/Sound/takedamage.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Sound/takedamage.xnb
+
+#begin bin/DesktopGL/Sound/takedamage.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Sound/takedamage.xnb
+
+#begin bin/DesktopGL/Sound/theme.ogg
+/importer:OggImporter
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:bin/DesktopGL/Sound/theme.ogg
+
+#begin bin/DesktopGL/Sound/theme.ogg
+/importer:OggImporter
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:bin/DesktopGL/Sound/theme.ogg
+
+#begin bin/DesktopGL/Sound/theme.ogg
+/importer:OggImporter
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:bin/DesktopGL/Sound/theme.ogg
+
+#begin bin/DesktopGL/Sound/theme.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Sound/theme.xnb
+
+#begin bin/DesktopGL/Sound/theme.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Sound/theme.xnb
+
+#begin bin/DesktopGL/Sound/theme.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Sound/theme.xnb
+
+#begin bin/DesktopGL/Sound/theme.xnb
+/importer:
+/processor:
+/build:bin/DesktopGL/Sound/theme.xnb
+
+#begin Content.mgcb
+/importer:
+/processor:
+/build:Content.mgcb
+
+#begin Content.mgcb
+/importer:
+/processor:
+/build:Content.mgcb
+
+#begin Content.mgcb
+/importer:
+/processor:
+/build:Content.mgcb
+
+#begin Content.mgcb
+/importer:
+/processor:
+/build:Content.mgcb
+
+#begin Content.mgcb
+/importer:
+/processor:
+/build:Content.mgcb
+
+#begin Fonts/bigFont.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:Fonts/bigFont.spritefont
+
+#begin Fonts/bigFont.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:Fonts/bigFont.spritefont
+
+#begin Fonts/bigFont.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:Fonts/bigFont.spritefont
+
+#begin Fonts/bigFont.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:Fonts/bigFont.spritefont
+
+#begin Fonts/bigFont.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:Fonts/bigFont.spritefont
+
+#begin Fonts/bigFont.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:Fonts/bigFont.spritefont
+
+#begin Fonts/smallFont.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:Fonts/smallFont.spritefont
+
+#begin Fonts/smallFont.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:Fonts/smallFont.spritefont
+
+#begin Fonts/smallFont.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:Fonts/smallFont.spritefont
+
+#begin Fonts/smallFont.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:Fonts/smallFont.spritefont
+
+#begin Fonts/smallFont.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:Fonts/smallFont.spritefont
+
+#begin Fonts/smallFont.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:Fonts/smallFont.spritefont
+
+#begin Images/Backgrounds/bg1.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg1.jpg
+
+#begin Images/Backgrounds/bg1.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg1.jpg
+
+#begin Images/Backgrounds/bg1.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg1.jpg
+
+#begin Images/Backgrounds/bg1.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg1.jpg
+
+#begin Images/Backgrounds/bg1.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg1.jpg
+
+#begin Images/Backgrounds/bg1.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg1.jpg
+
+#begin Images/Backgrounds/bg1.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg1.jpg
+
+#begin Images/Backgrounds/bg1.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg1.jpg
+
+#begin Images/Backgrounds/bg1.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg1.jpg
+
+#begin Images/Backgrounds/bg1.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg1.jpg
+
+#begin Images/Backgrounds/bg1.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg1.jpg
+
+#begin Images/Backgrounds/bg1.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg1.jpg
+
+#begin Images/Backgrounds/bg2.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg2.jpg
+
+#begin Images/Backgrounds/bg2.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg2.jpg
+
+#begin Images/Backgrounds/bg2.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg2.jpg
+
+#begin Images/Backgrounds/bg2.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg2.jpg
+
+#begin Images/Backgrounds/bg2.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg2.jpg
+
+#begin Images/Backgrounds/bg2.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg2.jpg
+
+#begin Images/Backgrounds/bg2.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg2.jpg
+
+#begin Images/Backgrounds/bg2.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg2.jpg
+
+#begin Images/Backgrounds/bg2.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg2.jpg
+
+#begin Images/Backgrounds/bg2.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg2.jpg
+
+#begin Images/Backgrounds/bg2.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg2.jpg
+
+#begin Images/Backgrounds/bg2.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg2.jpg
+
+#begin Images/Backgrounds/bg3.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg3.jpg
+
+#begin Images/Backgrounds/bg3.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg3.jpg
+
+#begin Images/Backgrounds/bg3.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg3.jpg
+
+#begin Images/Backgrounds/bg3.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg3.jpg
+
+#begin Images/Backgrounds/bg3.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg3.jpg
+
+#begin Images/Backgrounds/bg3.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg3.jpg
+
+#begin Images/Backgrounds/bg3.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg3.jpg
+
+#begin Images/Backgrounds/bg3.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg3.jpg
+
+#begin Images/Backgrounds/bg3.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg3.jpg
+
+#begin Images/Backgrounds/bg3.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg3.jpg
+
+#begin Images/Backgrounds/bg3.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg3.jpg
+
+#begin Images/Backgrounds/bg3.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/bg3.jpg
+
+#begin Images/Backgrounds/Parallax100.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax100.png
+
+#begin Images/Backgrounds/Parallax100.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax100.png
+
+#begin Images/Backgrounds/Parallax100.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax100.png
+
+#begin Images/Backgrounds/Parallax100.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax100.png
+
+#begin Images/Backgrounds/Parallax100.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax100.png
+
+#begin Images/Backgrounds/Parallax100.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax100.png
+
+#begin Images/Backgrounds/Parallax100.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax100.png
+
+#begin Images/Backgrounds/Parallax100.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax100.png
+
+#begin Images/Backgrounds/Parallax100.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax100.png
+
+#begin Images/Backgrounds/Parallax100.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax100.png
+
+#begin Images/Backgrounds/Parallax100.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax100.png
+
+#begin Images/Backgrounds/Parallax100.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax100.png
+
+#begin Images/Backgrounds/Parallax60.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax60.png
+
+#begin Images/Backgrounds/Parallax60.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax60.png
+
+#begin Images/Backgrounds/Parallax60.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax60.png
+
+#begin Images/Backgrounds/Parallax60.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax60.png
+
+#begin Images/Backgrounds/Parallax60.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax60.png
+
+#begin Images/Backgrounds/Parallax60.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax60.png
+
+#begin Images/Backgrounds/Parallax60.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax60.png
+
+#begin Images/Backgrounds/Parallax60.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax60.png
+
+#begin Images/Backgrounds/Parallax60.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax60.png
+
+#begin Images/Backgrounds/Parallax60.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax60.png
+
+#begin Images/Backgrounds/Parallax60.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax60.png
+
+#begin Images/Backgrounds/Parallax60.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax60.png
+
+#begin Images/Backgrounds/Parallax80.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax80.png
+
+#begin Images/Backgrounds/Parallax80.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax80.png
+
+#begin Images/Backgrounds/Parallax80.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax80.png
+
+#begin Images/Backgrounds/Parallax80.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax80.png
+
+#begin Images/Backgrounds/Parallax80.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax80.png
+
+#begin Images/Backgrounds/Parallax80.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax80.png
+
+#begin Images/Backgrounds/Parallax80.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax80.png
+
+#begin Images/Backgrounds/Parallax80.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax80.png
+
+#begin Images/Backgrounds/Parallax80.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax80.png
+
+#begin Images/Backgrounds/Parallax80.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax80.png
+
+#begin Images/Backgrounds/Parallax80.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax80.png
+
+#begin Images/Backgrounds/Parallax80.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/Parallax80.png
+
+#begin Images/Backgrounds/snowybg.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/snowybg.png
+
+#begin Images/Backgrounds/snowybg.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/snowybg.png
+
+#begin Images/Backgrounds/snowybg.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/snowybg.png
+
+#begin Images/Backgrounds/snowybg.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/snowybg.png
+
+#begin Images/Backgrounds/snowybg.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/snowybg.png
+
+#begin Images/Backgrounds/snowybg.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/snowybg.png
+
+#begin Images/Backgrounds/snowybg.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/snowybg.png
+
+#begin Images/Backgrounds/snowybg.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/snowybg.png
+
+#begin Images/Backgrounds/snowybg.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/snowybg.png
+
+#begin Images/Backgrounds/snowybg.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/snowybg.png
+
+#begin Images/Backgrounds/snowybg.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/snowybg.png
+
+#begin Images/Backgrounds/snowybg.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/snowybg.png
+
+#begin Images/Backgrounds/stars.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/stars.png
+
+#begin Images/Backgrounds/stars.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/stars.png
+
+#begin Images/Backgrounds/stars.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/stars.png
+
+#begin Images/Backgrounds/stars.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/stars.png
+
+#begin Images/Backgrounds/stars.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/stars.png
+
+#begin Images/Backgrounds/stars.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/stars.png
+
+#begin Images/Backgrounds/stars.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/stars.png
+
+#begin Images/Backgrounds/stars.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/stars.png
+
+#begin Images/Backgrounds/stars.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/stars.png
+
+#begin Images/Backgrounds/stars.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/stars.png
+
+#begin Images/Backgrounds/stars.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/stars.png
+
+#begin Images/Backgrounds/stars.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/stars.png
+
+#begin Images/Backgrounds/stars2.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/stars2.png
+
+#begin Images/Backgrounds/stars2.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/stars2.png
+
+#begin Images/Backgrounds/stars2.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/stars2.png
+
+#begin Images/Backgrounds/stars2.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/stars2.png
+
+#begin Images/Backgrounds/stars2.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/stars2.png
+
+#begin Images/Backgrounds/stars2.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/stars2.png
+
+#begin Images/Backgrounds/stars2.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/stars2.png
+
+#begin Images/Backgrounds/stars2.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/stars2.png
+
+#begin Images/Backgrounds/stars2.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/stars2.png
+
+#begin Images/Backgrounds/stars2.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/stars2.png
+
+#begin Images/Backgrounds/stars2.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/stars2.png
+
+#begin Images/Backgrounds/stars2.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Backgrounds/stars2.png
+
+#begin Images/Misc/blankrec.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Misc/blankrec.png
+
+#begin Images/Misc/blankrec.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Misc/blankrec.png
+
+#begin Images/Misc/blankrec.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Misc/blankrec.png
+
+#begin Images/Misc/blankrec.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Misc/blankrec.png
+
+#begin Images/Misc/blankrec.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Misc/blankrec.png
+
+#begin Images/Misc/blankrec.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Misc/blankrec.png
+
+#begin Images/Misc/blankrec.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Misc/blankrec.png
+
+#begin Images/Misc/blankrec.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Misc/blankrec.png
+
+#begin Images/Misc/blankrec.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Misc/blankrec.png
+
+#begin Images/Misc/blankrec.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Misc/blankrec.png
+
+#begin Images/Misc/blankrec.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Misc/blankrec.png
+
+#begin Images/Misc/blankrec.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Misc/blankrec.png
+
+#begin Images/Misc/blankrec.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Misc/blankrec.png
+
+#begin Images/Misc/blankrec.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Misc/blankrec.png
+
+#begin Images/Misc/logo.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Misc/logo.png
+
+#begin Images/Misc/logo.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Misc/logo.png
+
+#begin Images/Misc/logo.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Misc/logo.png
+
+#begin Images/Sprites/bigtarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/bigtarget.png
+
+#begin Images/Sprites/bigtarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/bigtarget.png
+
+#begin Images/Sprites/bigtarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/bigtarget.png
+
+#begin Images/Sprites/bigtarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/bigtarget.png
+
+#begin Images/Sprites/bigtarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/bigtarget.png
+
+#begin Images/Sprites/bigtarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/bigtarget.png
+
+#begin Images/Sprites/bigtarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/bigtarget.png
+
+#begin Images/Sprites/bigtarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/bigtarget.png
+
+#begin Images/Sprites/bigtarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/bigtarget.png
+
+#begin Images/Sprites/bigtarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/bigtarget.png
+
+#begin Images/Sprites/bigtarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/bigtarget.png
+
+#begin Images/Sprites/bigtarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/bigtarget.png
+
+#begin Images/Sprites/bubble.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/bubble.png
+
+#begin Images/Sprites/bubble.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/bubble.png
+
+#begin Images/Sprites/bubble.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/bubble.png
+
+#begin Images/Sprites/bubble.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/bubble.png
+
+#begin Images/Sprites/bubble.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/bubble.png
+
+#begin Images/Sprites/bubble.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/bubble.png
+
+#begin Images/Sprites/bubble.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/bubble.png
+
+#begin Images/Sprites/bubble.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/bubble.png
+
+#begin Images/Sprites/bubble.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/bubble.png
+
+#begin Images/Sprites/bubble.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/bubble.png
+
+#begin Images/Sprites/bubble.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/bubble.png
+
+#begin Images/Sprites/bubble.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/bubble.png
+
+#begin Images/Sprites/clone.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/clone.png
+
+#begin Images/Sprites/clone.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/clone.png
+
+#begin Images/Sprites/clone.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/clone.png
+
+#begin Images/Sprites/clone.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/clone.png
+
+#begin Images/Sprites/clone.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/clone.png
+
+#begin Images/Sprites/clone.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/clone.png
+
+#begin Images/Sprites/clone.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/clone.png
+
+#begin Images/Sprites/clone.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/clone.png
+
+#begin Images/Sprites/clone.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/clone.png
+
+#begin Images/Sprites/clone.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/clone.png
+
+#begin Images/Sprites/clone.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/clone.png
+
+#begin Images/Sprites/fallingnuke.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/fallingnuke.png
+
+#begin Images/Sprites/fallingnuke.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/fallingnuke.png
+
+#begin Images/Sprites/fallingnuke.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/fallingnuke.png
+
+#begin Images/Sprites/fallingnuke.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/fallingnuke.png
+
+#begin Images/Sprites/fallingnuke.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/fallingnuke.png
+
+#begin Images/Sprites/fallingnuke.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/fallingnuke.png
+
+#begin Images/Sprites/fallingnuke.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/fallingnuke.png
+
+#begin Images/Sprites/fallingnuke.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/fallingnuke.png
+
+#begin Images/Sprites/heart.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/heart.png
+
+#begin Images/Sprites/heart.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/heart.png
+
+#begin Images/Sprites/heart.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/heart.png
+
+#begin Images/Sprites/heart.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/heart.png
+
+#begin Images/Sprites/heart.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/heart.png
+
+#begin Images/Sprites/heart.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/heart.png
+
+#begin Images/Sprites/heart.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/heart.png
+
+#begin Images/Sprites/heart.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/heart.png
+
+#begin Images/Sprites/heart.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/heart.png
+
+#begin Images/Sprites/heart.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/heart.png
+
+#begin Images/Sprites/heart.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/heart.png
+
+#begin Images/Sprites/heart.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/heart.png
+
+#begin Images/Sprites/instakill.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/instakill.png
+
+#begin Images/Sprites/instakill.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/instakill.png
+
+#begin Images/Sprites/instakill.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/instakill.png
+
+#begin Images/Sprites/instakill.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/instakill.png
+
+#begin Images/Sprites/instakill.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/instakill.png
+
+#begin Images/Sprites/instakill.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/instakill.png
+
+#begin Images/Sprites/instakill.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/instakill.png
+
+#begin Images/Sprites/instakill.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/instakill.png
+
+#begin Images/Sprites/instakill.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/instakill.png
+
+#begin Images/Sprites/instakill.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/instakill.png
+
+#begin Images/Sprites/instakill.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/instakill.png
+
+#begin Images/Sprites/krampus.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/krampus.png
+
+#begin Images/Sprites/krampus.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/krampus.png
+
+#begin Images/Sprites/krampus.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/krampus.png
+
+#begin Images/Sprites/krampus.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/krampus.png
+
+#begin Images/Sprites/krampus.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/krampus.png
+
+#begin Images/Sprites/krampus.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/krampus.png
+
+#begin Images/Sprites/krampus.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/krampus.png
+
+#begin Images/Sprites/krampus.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/krampus.png
+
+#begin Images/Sprites/krampus.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/krampus.png
+
+#begin Images/Sprites/krampus.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/krampus.png
+
+#begin Images/Sprites/krampus.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/krampus.png
+
+#begin Images/Sprites/krampus.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/krampus.png
+
+#begin Images/Sprites/medtarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/medtarget.png
+
+#begin Images/Sprites/medtarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/medtarget.png
+
+#begin Images/Sprites/medtarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/medtarget.png
+
+#begin Images/Sprites/medtarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/medtarget.png
+
+#begin Images/Sprites/medtarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/medtarget.png
+
+#begin Images/Sprites/medtarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/medtarget.png
+
+#begin Images/Sprites/medtarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/medtarget.png
+
+#begin Images/Sprites/medtarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/medtarget.png
+
+#begin Images/Sprites/medtarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/medtarget.png
+
+#begin Images/Sprites/medtarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/medtarget.png
+
+#begin Images/Sprites/medtarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/medtarget.png
+
+#begin Images/Sprites/medtarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/medtarget.png
+
+#begin Images/Sprites/nuke.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/nuke.png
+
+#begin Images/Sprites/nuke.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/nuke.png
+
+#begin Images/Sprites/nuke.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/nuke.png
+
+#begin Images/Sprites/nuke.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/nuke.png
+
+#begin Images/Sprites/nuke.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/nuke.png
+
+#begin Images/Sprites/nuke.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/nuke.png
+
+#begin Images/Sprites/nuke.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/nuke.png
+
+#begin Images/Sprites/nuke.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/nuke.png
+
+#begin Images/Sprites/nuke.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/nuke.png
+
+#begin Images/Sprites/nuke.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/nuke.png
+
+#begin Images/Sprites/nuke.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/nuke.png
+
+#begin Images/Sprites/shot.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/shot.png
+
+#begin Images/Sprites/shot.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/shot.png
+
+#begin Images/Sprites/shot.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/shot.png
+
+#begin Images/Sprites/shot.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/shot.png
+
+#begin Images/Sprites/shot.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/shot.png
+
+#begin Images/Sprites/shot.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/shot.png
+
+#begin Images/Sprites/shot.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/shot.png
+
+#begin Images/Sprites/shot.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/shot.png
+
+#begin Images/Sprites/shot.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/shot.png
+
+#begin Images/Sprites/shot.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/shot.png
+
+#begin Images/Sprites/shot.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/shot.png
+
+#begin Images/Sprites/shot.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/shot.png
+
+#begin Images/Sprites/smltarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/smltarget.png
+
+#begin Images/Sprites/smltarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/smltarget.png
+
+#begin Images/Sprites/smltarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/smltarget.png
+
+#begin Images/Sprites/smltarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/smltarget.png
+
+#begin Images/Sprites/smltarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/smltarget.png
+
+#begin Images/Sprites/smltarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/smltarget.png
+
+#begin Images/Sprites/smltarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/smltarget.png
+
+#begin Images/Sprites/smltarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/smltarget.png
+
+#begin Images/Sprites/smltarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/smltarget.png
+
+#begin Images/Sprites/smltarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/smltarget.png
+
+#begin Images/Sprites/smltarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/smltarget.png
+
+#begin Images/Sprites/smltarget.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/smltarget.png
+
+#begin Images/Sprites/spaceship.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/spaceship.jpg
+
+#begin Images/Sprites/spaceship.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/spaceship.png
+
+#begin Images/Sprites/spaceship.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/spaceship.png
+
+#begin Images/Sprites/spaceship.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/spaceship.png
+
+#begin Images/Sprites/spaceship.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/spaceship.png
+
+#begin Images/Sprites/spaceship.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/spaceship.png
+
+#begin Images/Sprites/spaceship.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/spaceship.png
+
+#begin Images/Sprites/spaceship.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/spaceship.png
+
+#begin Images/Sprites/spaceship.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/spaceship.png
+
+#begin Images/Sprites/spaceship.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/spaceship.png
+
+#begin Images/Sprites/spaceship.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/spaceship.png
+
+#begin Images/Sprites/spaceship.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/spaceship.png
+
+#begin Images/Sprites/spaceship.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/spaceship.png
+
+#begin Images/Sprites/strongshot.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/strongshot.png
+
+#begin Images/Sprites/strongshot.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/strongshot.png
+
+#begin Images/Sprites/strongshot.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/strongshot.png
+
+#begin Images/Sprites/strongshot.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/strongshot.png
+
+#begin Images/Sprites/strongshot.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/strongshot.png
+
+#begin Images/Sprites/strongshot.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/strongshot.png
+
+#begin Images/Sprites/strongshot.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/strongshot.png
+
+#begin Images/Sprites/strongshot.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/strongshot.png
+
+#begin Images/Sprites/strongshot.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/strongshot.png
+
+#begin Images/Sprites/strongshot.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/strongshot.png
+
+#begin Images/Sprites/strongshot.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/strongshot.png
+
+#begin Images/Sprites/strongshot.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/Sprites/strongshot.png
+
+#begin obj/DesktopGL/.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/.mgcontent
+
+#begin obj/DesktopGL/.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/.mgcontent
+
+#begin obj/DesktopGL/.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/.mgcontent
+
+#begin obj/DesktopGL/.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/.mgcontent
+
+#begin obj/DesktopGL/.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/.mgcontent
+
+#begin obj/DesktopGL/.mgstats
+/importer:
+/processor:
+/build:obj/DesktopGL/.mgstats
+
+#begin obj/DesktopGL/.mgstats
+/importer:
+/processor:
+/build:obj/DesktopGL/.mgstats
+
+#begin obj/DesktopGL/.mgstats
+/importer:
+/processor:
+/build:obj/DesktopGL/.mgstats
+
+#begin obj/DesktopGL/.mgstats
+/importer:
+/processor:
+/build:obj/DesktopGL/.mgstats
+
+#begin obj/DesktopGL/.mgstats
+/importer:
+/processor:
+/build:obj/DesktopGL/.mgstats
+
+#begin obj/DesktopGL/bin/DesktopGL/Sound/theme.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/bin/DesktopGL/Sound/theme.mgcontent
+
+#begin obj/DesktopGL/bin/DesktopGL/Sound/theme.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/bin/DesktopGL/Sound/theme.mgcontent
+
+#begin obj/DesktopGL/Fonts/bigFont.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Fonts/bigFont.mgcontent
+
+#begin obj/DesktopGL/Fonts/bigFont.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Fonts/bigFont.mgcontent
+
+#begin obj/DesktopGL/Fonts/bigFont.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Fonts/bigFont.mgcontent
+
+#begin obj/DesktopGL/Fonts/bigFont.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Fonts/bigFont.mgcontent
+
+#begin obj/DesktopGL/Fonts/bigFont.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Fonts/bigFont.mgcontent
+
+#begin obj/DesktopGL/Fonts/smallFont.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Fonts/smallFont.mgcontent
+
+#begin obj/DesktopGL/Fonts/smallFont.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Fonts/smallFont.mgcontent
+
+#begin obj/DesktopGL/Fonts/smallFont.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Fonts/smallFont.mgcontent
+
+#begin obj/DesktopGL/Fonts/smallFont.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Fonts/smallFont.mgcontent
+
+#begin obj/DesktopGL/Fonts/smallFont.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Fonts/smallFont.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/bg1.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/bg1.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/bg1.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/bg1.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/bg1.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/bg1.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/bg1.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/bg1.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/bg1.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/bg1.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/bg2.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/bg2.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/bg2.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/bg2.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/bg2.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/bg2.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/bg2.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/bg2.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/bg2.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/bg2.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/bg3.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/bg3.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/bg3.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/bg3.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/bg3.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/bg3.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/bg3.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/bg3.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/bg3.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/bg3.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/Parallax100.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/Parallax100.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/Parallax100.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/Parallax100.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/Parallax100.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/Parallax100.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/Parallax100.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/Parallax100.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/Parallax100.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/Parallax100.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/Parallax60.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/Parallax60.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/Parallax60.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/Parallax60.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/Parallax60.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/Parallax60.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/Parallax60.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/Parallax60.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/Parallax60.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/Parallax60.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/Parallax80.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/Parallax80.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/Parallax80.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/Parallax80.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/Parallax80.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/Parallax80.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/Parallax80.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/Parallax80.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/Parallax80.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/Parallax80.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/snowybg.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/snowybg.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/snowybg.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/snowybg.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/snowybg.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/snowybg.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/snowybg.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/snowybg.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/snowybg.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/snowybg.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/stars.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/stars.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/stars.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/stars.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/stars.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/stars.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/stars.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/stars.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/stars.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/stars.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/stars2.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/stars2.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/stars2.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/stars2.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/stars2.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/stars2.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/stars2.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/stars2.mgcontent
+
+#begin obj/DesktopGL/Images/Backgrounds/stars2.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Backgrounds/stars2.mgcontent
+
+#begin obj/DesktopGL/Images/Misc/blankrec.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Misc/blankrec.mgcontent
+
+#begin obj/DesktopGL/Images/Misc/blankrec.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Misc/blankrec.mgcontent
+
+#begin obj/DesktopGL/Images/Misc/blankrec.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Misc/blankrec.mgcontent
+
+#begin obj/DesktopGL/Images/Misc/blankrec.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Misc/blankrec.mgcontent
+
+#begin obj/DesktopGL/Images/Misc/blankrec.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Misc/blankrec.mgcontent
+
+#begin obj/DesktopGL/Images/Misc/logo.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Misc/logo.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/bigtarget.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/bigtarget.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/bigtarget.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/bigtarget.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/bigtarget.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/bigtarget.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/bigtarget.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/bigtarget.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/bigtarget.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/bigtarget.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/bubble.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/bubble.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/bubble.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/bubble.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/bubble.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/bubble.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/bubble.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/bubble.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/bubble.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/bubble.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/clone.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/clone.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/clone.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/clone.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/clone.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/clone.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/clone.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/clone.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/clone.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/clone.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/fallingnuke.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/fallingnuke.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/fallingnuke.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/fallingnuke.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/fallingnuke.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/fallingnuke.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/fallingnuke.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/fallingnuke.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/fallingnuke.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/fallingnuke.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/heart.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/heart.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/heart.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/heart.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/heart.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/heart.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/heart.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/heart.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/heart.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/heart.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/instakill.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/instakill.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/instakill.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/instakill.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/instakill.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/instakill.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/instakill.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/instakill.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/instakill.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/instakill.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/krampus.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/krampus.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/krampus.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/krampus.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/krampus.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/krampus.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/krampus.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/krampus.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/krampus.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/krampus.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/medtarget.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/medtarget.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/medtarget.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/medtarget.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/medtarget.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/medtarget.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/medtarget.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/medtarget.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/medtarget.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/medtarget.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/nuke.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/nuke.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/nuke.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/nuke.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/nuke.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/nuke.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/nuke.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/nuke.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/nuke.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/nuke.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/shot.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/shot.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/shot.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/shot.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/shot.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/shot.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/shot.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/shot.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/shot.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/shot.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/smltarget.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/smltarget.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/smltarget.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/smltarget.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/smltarget.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/smltarget.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/smltarget.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/smltarget.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/smltarget.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/smltarget.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/spaceship.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/spaceship.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/spaceship.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/spaceship.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/spaceship.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/spaceship.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/spaceship.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/spaceship.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/spaceship.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/spaceship.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/strongshot.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/strongshot.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/strongshot.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/strongshot.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/strongshot.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/strongshot.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/strongshot.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/strongshot.mgcontent
+
+#begin obj/DesktopGL/Images/Sprites/strongshot.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Images/Sprites/strongshot.mgcontent
+
+#begin obj/DesktopGL/Sound/boom.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Sound/boom.mgcontent
+
+#begin obj/DesktopGL/Sound/boom.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Sound/boom.mgcontent
+
+#begin obj/DesktopGL/Sound/boom.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Sound/boom.mgcontent
+
+#begin obj/DesktopGL/Sound/death.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Sound/death.mgcontent
+
+#begin obj/DesktopGL/Sound/death.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Sound/death.mgcontent
+
+#begin obj/DesktopGL/Sound/death.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Sound/death.mgcontent
+
+#begin obj/DesktopGL/Sound/error.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Sound/error.mgcontent
+
+#begin obj/DesktopGL/Sound/error.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Sound/error.mgcontent
+
+#begin obj/DesktopGL/Sound/error.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Sound/error.mgcontent
+
+#begin obj/DesktopGL/Sound/hit.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Sound/hit.mgcontent
+
+#begin obj/DesktopGL/Sound/hit.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Sound/hit.mgcontent
+
+#begin obj/DesktopGL/Sound/hit.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Sound/hit.mgcontent
+
+#begin obj/DesktopGL/Sound/itemgrab.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Sound/itemgrab.mgcontent
+
+#begin obj/DesktopGL/Sound/itemgrab.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Sound/itemgrab.mgcontent
+
+#begin obj/DesktopGL/Sound/itemgrab.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Sound/itemgrab.mgcontent
+
+#begin obj/DesktopGL/Sound/itemuse.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Sound/itemuse.mgcontent
+
+#begin obj/DesktopGL/Sound/itemuse.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Sound/itemuse.mgcontent
+
+#begin obj/DesktopGL/Sound/itemuse.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Sound/itemuse.mgcontent
+
+#begin obj/DesktopGL/Sound/ouchouch.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Sound/ouchouch.mgcontent
+
+#begin obj/DesktopGL/Sound/ouchouch.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Sound/ouchouch.mgcontent
+
+#begin obj/DesktopGL/Sound/ouchouch.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Sound/ouchouch.mgcontent
+
+#begin obj/DesktopGL/Sound/takedamage.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Sound/takedamage.mgcontent
+
+#begin obj/DesktopGL/Sound/takedamage.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Sound/takedamage.mgcontent
+
+#begin obj/DesktopGL/Sound/takedamage.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Sound/takedamage.mgcontent
+
+#begin obj/DesktopGL/Sound/theme.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Sound/theme.mgcontent
+
+#begin obj/DesktopGL/Sound/theme.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Sound/theme.mgcontent
+
+#begin obj/DesktopGL/Sound/theme.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Sound/theme.mgcontent
+
+#begin obj/DesktopGL/Sound/theme.mgcontent
+/importer:
+/processor:
+/build:obj/DesktopGL/Sound/theme.mgcontent
+
+#begin Sound/boom.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sound/boom.wav
+
+#begin Sound/boom.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sound/boom.wav
+
+#begin Sound/boom.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sound/boom.wav
+
+#begin Sound/death.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sound/death.wav
+
+#begin Sound/death.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sound/death.wav
+
+#begin Sound/death.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sound/death.wav
+
+#begin Sound/error.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sound/error.wav
+
+#begin Sound/error.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sound/error.wav
+
+#begin Sound/error.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sound/error.wav
+
+#begin Sound/hit.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sound/hit.wav
+
+#begin Sound/hit.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sound/hit.wav
+
+#begin Sound/hit.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sound/hit.wav
+
+#begin Sound/itemgrab.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sound/itemgrab.wav
+
+#begin Sound/itemgrab.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sound/itemgrab.wav
+
+#begin Sound/itemgrab.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sound/itemgrab.wav
+
+#begin Sound/itemuse.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sound/itemuse.wav
+
+#begin Sound/itemuse.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sound/itemuse.wav
+
+#begin Sound/itemuse.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sound/itemuse.wav
+
+#begin Sound/ouchouch.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sound/ouchouch.wav
+
+#begin Sound/ouchouch.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sound/ouchouch.wav
+
+#begin Sound/ouchouch.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sound/ouchouch.wav
+
+#begin Sound/takedamage.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sound/takedamage.wav
+
+#begin Sound/takedamage.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sound/takedamage.wav
+
+#begin Sound/takedamage.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sound/takedamage.wav
+
+#begin Sound/theme.mp3
+/importer:Mp3Importer
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:Sound/theme.mp3
+
+#begin Sound/theme.mp3
+/importer:Mp3Importer
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:Sound/theme.mp3
+
+#begin Sound/theme.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sound/theme.wav
+
